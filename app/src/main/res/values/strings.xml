@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Mirror</string>
+    <string name="temprature">%1$s \u00B0</string>
+
+    <string name="air_quality_very_bad">bardzo wysokie</string>
+    <string name="air_quality_bad">wysokie</string>
+    <string name="air_quality_medium">średnie</string>
+    <string name="air_quality_low">niskie</string>
+    <string name="air_quality_very_low">bardzo niskie</string>
+    <string name="air_quality_missing">nieznane</string>
+
+
+
+</resources>

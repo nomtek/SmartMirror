@@ -1,0 +1,34 @@
+# built application files
+.gradle/
+build/
+gradle.properties
+# files for the dex VM
+
+# Java class files
+
+# generated files
+bin/
+gen/
+out/
+target/
+captures/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Idea IDE files
+*.idea/
+*.iml
+
+*.DS_STORE
+
+custom_env.gradle
+*.li
+*.hprof
+*.alloc
+
+com.crashlytics.settings.json
